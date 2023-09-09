@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anushiya Banu</h1>
-<h3 align="center">A passionate frontend , backend with cloud developor along with an interest in Machine Learning from India</h3>
+<h3 align="center">A passionate frontend devoloper, backend developor with cloud along with an interest in Machine Learning from India</h3>
 
 - 🔭 I’m currently working on **AWS Cloud Practitioner,Google Cloud Digital leader,Cloud Based Projects**
 
